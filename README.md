@@ -1,9 +1,13 @@
 
 <h2>How To Setup</h2> 
+
  01. composer install
- 02. copy .env.example .env
- 03. php artisan key:generate
- 04. php artisan migrate
+ 2. 
+ 4. copy .env.example .env
+ 5. 
+ 6. php artisan key:generate
+ 7. 
+ 8. php artisan migrate
 
 
 
